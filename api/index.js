@@ -1,3 +1,4 @@
+  //to do imports like this we have to declare type:module in package json
 import express from "express";
 const app = express();
 app.listen(3000, () => {
